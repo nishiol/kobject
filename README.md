@@ -21,7 +21,7 @@ Add the following dependency to your project:
 ### Gradle
 
 ```kotlin
-implementation("ru.nishiol.kobject:kobject:1.0.0")
+implementation("ru.nishiol.kobject:kobject:1.0.1")
 ```
 
 ### Maven
@@ -31,7 +31,7 @@ implementation("ru.nishiol.kobject:kobject:1.0.0")
 <dependency>
     <groupId>ru.nishiol.kobject</groupId>
     <artifactId>kobject</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
